@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá! 🖖
+
+- 🏫 Estou estudando Sistemas de Informação na PUC Minas
+- 👨‍💻 Sou desenvolvedor
+- 👨‍🏫 Sou professor de Matemática
+- 🌱 Estou aprendendo HTML, CSS, JavaScript, Java, Python e C
 
 <!--
 **JeiversonChristian/JeiversonChristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
