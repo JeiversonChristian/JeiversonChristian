@@ -1,7 +1,7 @@
 ### Olá! 🖖
 
 - 🏫 Estou estudando Sistemas de Informação na PUC Minas
-- 👨‍💻 Sou desenvolvedor
+- 👨‍💻 Sou desenvolvedor Back-end | Python
 - 👨‍🏫 Sou professor de Matemática
 
 <!--
