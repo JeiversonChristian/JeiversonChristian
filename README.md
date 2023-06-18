@@ -1,6 +1,6 @@
 ### Olá! 🖖
 
-- 👨‍💻 Sou desenvolvedor Python | Mobile | Desktop | Data Science
+- 👨‍💻 Sou desenvolvedor Python
 - 👨‍🏫 Sou Matemático
 
 <div>
