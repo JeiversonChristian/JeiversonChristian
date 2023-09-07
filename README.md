@@ -7,6 +7,9 @@
 <div>
   <a href="https://www.linkedin.com/in/jeiverson-christian" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<div>
+  <a href="https://www.instagram.com/jeiverson_christian/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
 
 <!--
 **JeiversonChristian/JeiversonChristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
