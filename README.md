@@ -1,6 +1,6 @@
 ### Olá! 🖖
 
-- 👨‍💻 Sou Desenvolvedor e Profesor
+- 👨‍💻 Sou Desenvolvedor e Profesor de Matemática e Programação
 
 ##
 
