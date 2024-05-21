@@ -1,6 +1,6 @@
 ### Olá! 🖖
 
-- 👨‍💻 Sou Desenvolvedor e Profesor de Matemática e Programação
+- 👨‍💻 Sou Desenvolvedor, Profesor de Matemática, de Programação e sou aspirante a Físico pela UFMG.
 
 ##
 
